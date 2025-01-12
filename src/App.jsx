@@ -1,20 +1,20 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Popular from "./components/Popular";
-import Adventure from "./components/Adventure";
-import Footer from "./components/Footer";
-import Foodie from "./components/Foodie";
-import Hotels from "./components/Hotels";
-import EscapePenang from "./components/EscapePenang"; 
-import PenangHill from "./components/PenangHill";
-import Kekloksitemple from "./components/Kekloksitemple";
-import Pesta from "./components/Pesta";
-import Bridge from "./components/Bridge";
-import BatuFerringhi from "./components/BatuFerringhi";
-import Entopia from "./components/Entopia";
-import StreetArt from "./components/StreetArt";
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import Popular from "./Popular";
+import Adventure from "./Adventure";
+import Footer from "./Footer";
+import Foodie from "./Foodie";
+import Hotels from "./Hotels";
+import EscapePenang from "./EscapePenang"; 
+import PenangHill from "./PenangHill";
+import Kekloksitemple from "./Kekloksitemple";
+import Pesta from "./Pesta";
+import Bridge from "./Bridge";
+import BatuFerringhi from "./BatuFerringhi";
+import Entopia from "./Entopia";
+import StreetArt from "./StreetArt";
 
 
 function App() {
